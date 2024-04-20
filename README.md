@@ -2,7 +2,7 @@
 This project employs PyQt5 to design a UI with functionalities for adding, editing, and deleting cameras, as well as recording. It simultaneously opens multiple cameras using threads and FrameBuffer. Additionally, it utilizes the Schedule library to record new videos every day at midnight. Finally, the program is packaged into an executable file. This application can be utilized for data collection before deep learning annotation.
 
 <div align="center">
-    <img src="https://github.com/KennyChen880127/YOLOv8-PY-to-EXE/blob/master/result.jpg" alt="mainScreen"><br>
+    <img src="https://github.com/KennyChen880127/Recording-with-Multiple-Cameras/blob/master/result/image1.png" alt="mainScreen"><br>
     Main Screen
 </div>
 
@@ -14,7 +14,7 @@ This project employs PyQt5 to design a UI with functionalities for adding, editi
 * Camera Addition: Pressing the "Add Camera" button will prompt a window where you can input the camera source (it can be a number or an RTSP link), then input the camera name, and finally, press "Save".
 
 <div align="center">
-    <img src="https://github.com/KennyChen880127/YOLOv8-PY-to-EXE/blob/master/result.jpg" alt="mainScreen"><br>
+    <img src="https://github.com/KennyChen880127/Recording-with-Multiple-Cameras/blob/master/result/image2.png" alt="mainScreen"><br>
     Camera Addition Screen
 </div>
 
