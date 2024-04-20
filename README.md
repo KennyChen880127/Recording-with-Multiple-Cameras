@@ -1,13 +1,20 @@
-# Recording-with-Multiple-Cameras
+<div align="center">
+<h1>
+<b>
+Recording-with-Multiple-Cameras
+</b>
+</h1>
+</div>
+
 This project employs PyQt5 to design a UI with functionalities for adding, editing, and deleting cameras, as well as recording. It simultaneously opens multiple cameras using threads and FrameBuffer. Additionally, it utilizes the Schedule library to record new videos every day at midnight. Finally, the program is packaged into an executable file. This application can be utilized for data collection before deep learning annotation.
-
-
+ 
+ 
 <div align="center">
     <img src="https://github.com/KennyChen880127/Recording-with-Multiple-Cameras/blob/master/result/image1.png" alt="mainScreen"><br>
     Main Screen
 </div>
-
-
+ 
+ 
 ## Instructions
 
 * Note: After the program executes, it will create "SaveLog" and "Video Record" folders in the same directory. The "SaveLog" folder is for storing log records, while the "Video Record" folder is for storing recorded videos. Additionally, it will create a "data.ini" file containing all camera data. Its format is as follows:
